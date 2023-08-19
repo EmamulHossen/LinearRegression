@@ -20,7 +20,7 @@ Linear regression uses the relationship between the data-points to draw a straig
       
 
 ### Follow me:
-[Links](https:[[//itsvg.in](https://www.linkedin.com/in/emamul-hossen-9a8ab1255/))](https://www.facebook.com/emamul.hossen.503)
+[Links](https:https://www.facebook.com/emamul.hossen.503)
  
-![](https://img.shields.io/badge/IMAGES-4298B8.svg?style=for-the-badge&logoColor=white)
+![](https:[//img.shields.io/badge/IMAGES-4298B8.svg?style=for-the-badge&logoColor=white](https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/1200px-Facebook_f_logo_%282021%29.svg.png)https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/1200px-Facebook_f_logo_%282021%29.svg.png)
 
