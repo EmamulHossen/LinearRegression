@@ -8,13 +8,13 @@ Linear regression uses the relationship between the data-points to draw a straig
 
 # Features
 **The basic concept of Linear Regression**
-1.Resudial
-2.Mean Square Error(MSE)
-3.Mean Absolute Error(MAE)
-4.Slope
-5.Intercept
+1.**Resudial**<br/>
+2.**Mean Square Error(MSE)**<br/>
+3.**Mean Absolute Error(MAE)**<br/>
+4.**Slope**<br/>
+5.**Intercept**
 # Screenshots
- <img src="#"> <img src="#"> <img src="#"> <img src="#"> <img src="#">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEsUutqZWx2i5ugS4nHnc0KKMiRwokT8EKtg&usqp=CAU"> <img src="#"> <img src="#"> <img src="#"> <img src="#">
 # Tech Used
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
       
@@ -32,7 +32,7 @@ Anything else that you want to add for users? You can write it here in markdown 
 | AndroidX Test | Includes APIs for testing your Android app, including Espresso, JUnit Runner, JUnit4 rules, and UI Automator. |
 
 ### You can add 
-[Links](https://itsvg.in)
+[Links](https:[//itsvg.in](https://www.linkedin.com/in/emamul-hossen-9a8ab1255/))
  
 ![](https://img.shields.io/badge/IMAGES-4298B8.svg?style=for-the-badge&logoColor=white)
 # If you don't want to add this section, just clear all the text written here.
