@@ -7,7 +7,7 @@
 Linear regression uses the relationship between the data-points to draw a straight line through all them
 
 # Features
-**The basic concept of Linear Regression**
+**The basic concept of Linear Regression**<br/>
 1.**Resudial**<br/>
 2.**Mean Square Error(MSE)**<br/>
 3.**Mean Absolute Error(MAE)**<br/>
@@ -20,7 +20,7 @@ Linear regression uses the relationship between the data-points to draw a straig
       
 
 ### Follow me:
-[Links](https:[//itsvg.in](https://www.linkedin.com/in/emamul-hossen-9a8ab1255/))
+[Links](https:[[//itsvg.in](https://www.linkedin.com/in/emamul-hossen-9a8ab1255/))](https://www.facebook.com/emamul.hossen.503)
  
 ![](https://img.shields.io/badge/IMAGES-4298B8.svg?style=for-the-badge&logoColor=white)
 
